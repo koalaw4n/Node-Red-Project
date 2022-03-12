@@ -9,11 +9,11 @@
   "env": {
     "NODE_RED_USERNAME": {
       "description": "The username to secure the editor.",
-      "value": "admin"
+      "value": "ikhwan"
     },
     "NODE_RED_PASSWORD": {
       "description": "The password to secure the editor.",
-      "value": "password"
+      "value": "koalaw4n"
     }
   },
   "addons": [
